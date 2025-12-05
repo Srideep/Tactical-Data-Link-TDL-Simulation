@@ -41,7 +41,7 @@ The system accounts for environmental constraints defined in the "RF Propagation
 
 ### **4\. Future Development**
 
-To expand this system further, a Systems Engineer would next define:
+To expand this system further, the following will be needed:
 
 1. **Protocol/Message Standards:** Replacing raw strings with structured binary formats (like Link-16 J-Series messages).  
 2. **Timing Analysis:** Modeling the *latency* (in milliseconds) added by each processing step.
